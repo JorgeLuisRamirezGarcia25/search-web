@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PyWebBrowser 🌐
 
 Un navegador web completo desarrollado en Python con PyQt5, que incluye todas las características modernas de navegación web.
@@ -304,3 +305,6 @@ Para reportar bugs o solicitar características:
 ---
 
 **¡Disfruta navegando con PyWebBrowser!** 🌐✨
+=======
+# search-web
+>>>>>>> 46d753a9ed1156c53122732f8a8bcf7c5595c765
